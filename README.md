@@ -1,12 +1,12 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-## 🤓 About Me
+## 🚀 About Me
 
 🎓 I'm Phil, a **Software Engineer**. I have a B.S. in **Computer Science** and an M.B.A. with a concentration in **Information Security**.
 
 👨‍💻 I'm really enthusiastic about learning new technology. In 2020, I began learning **React.js** and **Node.js** and I started working with [**Cued-IN**](https://cuedin.us) to continue growing my skills with modern technology.
 
-🔨 I enjoy pushing myself to learn new things besides new technology too. My hobbies include **home improvement projects**, **racquetball**, and **tending my green bean plantation**.
+🔨 I enjoy pushing myself to learn new things besides new technology too. My hobbies include **home improvement projects**, **racquetball**, and **tending my green bean "plantation"**.
 
 📫 You can reach me on LinkedIn: [**https://linkedin.com/in/phil-ernst**](https://linkedin.com/in/phil-ernst)
 
