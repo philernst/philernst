@@ -18,13 +18,13 @@
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
 ![peoplecode](https://img.shields.io/badge/PeopleCode-007396?style=for-the-badge&logo=java&logoColor=white)
+![sql](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logoColor=white)
 ![sqr](https://img.shields.io/badge/SQR-FFCB36?style=for-the-badge&logo=sqr&logoColor=white)
 ![bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=bash&logoColor=white)
 
 
 ### Front-End
 
-![nodejs](https://img.shields.io/badge/NodeJS-000000?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,6 +33,7 @@
 
 ### Back-End
 
+![node](https://img.shields.io/badge/Node-323330?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
 ![mongodb](https://img.shields.io/badge/MongoDB-430098?style=for-the-badge&logo=mongodb&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
