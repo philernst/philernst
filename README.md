@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm Phil, a **Web Producer** at [GitHub](https://cuedin.us) ✨
+I'm Phil, a **Product Manager of Web Production** at [GitHub](https://cuedin.us) ✨
 
 🎓 I have a B.S. in **Computer Science** and an M.B.A. with a concentration in **Information Security**.
 
