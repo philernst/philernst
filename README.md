@@ -2,17 +2,29 @@
 
 ## 🚀 About Me
 
-I'm Phil, a **Product Manager of Web Production** at [GitHub](https://cuedin.us) ✨
+I'm Phil, a **Product Manager of Web Production** at GitHub, where I'm passionate about crafting innovative web solutions. ✨
 
-🎓 I have a B.S. in **Computer Science** and an M.B.A. with a concentration in **Information Security**.
+🎓 I hold a Bachelor's degree in **Computer Science** along with an M.B.A. focusing on **Information Security**.
 
 👨‍💻 I'm enthusiastic about learning new technology. 💻 In 2020, I began learning **React.js** and **Node.js** and I started working with [**Cued-IN**](https://cuedin.us) to continue growing my skills with modern web development.
 
+👨‍💻 My love for technology fuels my drive to constantly expand my skills. I began on a journey to delve into **React.js** and **Node.js** to honing my expertise in modern web development through my work with Cued-IN. I had the opportunity to [build](https://apps.apple.com/us/app/the-good-life-solution/id6466637917) a React Native app.
+
 🔨 I enjoy pushing myself to learn new things besides new technology too. My hobbies include **home improvement projects**, **playing in the dirt with my 3 boys**, and **tending my green bean "plantation"**.
+🔨 Beyond technology, I thrive on exploring diverse interests. When I'm not immersed in code, I enjoy engaging in **home improvement projects**, **playing in the dirt with my 3 boys**, and **tending my green bean "plantation."**
 
 📫 You can reach me on LinkedIn: [**https://linkedin.com/in/phil-ernst**](https://linkedin.com/in/phil-ernst)
 
 ## 🛠️ Skills
+
+### Product management
+- Content management systems
+- Web development knowledge
+- UX/UI understanding
+- Data analysis
+- Project management
+
+
 
 ### Languages
 
