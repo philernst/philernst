@@ -1,6 +1,6 @@
 # Hi, I'm Phil 👋
 
-I'm a web producer and product collaborator passionate about building clear, performant, and scalable web experiences. I thrive at the intersection of content, code, and collaboration—bringing together cross-functional teams to ship pages that matter.
+I'm a web producer / product manager passionate about building clear, performant, and scalable web experiences. I thrive at the intersection of content, code, and collaboration—bringing together cross-functional teams to ship pages that matter.
 
 - 💻 I build and manage high-visibility webpages using **Contentful**, working closely with design, engineering, and marketing stakeholders.
 - ⚙️ I streamline workflows with **GitHub Actions**, automate tasks, and advocate for smarter systems that reduce manual effort.
