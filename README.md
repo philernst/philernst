@@ -1,57 +1,44 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="33" />
+# Hi, I'm Phil 👋
 
-## 🚀 About Me
+I'm a web producer and product collaborator passionate about building clear, performant, and scalable web experiences. I thrive at the intersection of content, code, and collaboration—bringing together cross-functional teams to ship pages that matter.
 
-I'm Phil, a **Product Manager of Web Production** at GitHub, where I'm passionate about crafting innovative web solutions. ✨
+- 💻 I build and manage high-visibility webpages using **Contentful**, working closely with design, engineering, and marketing stakeholders.
+- ⚙️ I streamline workflows with **GitHub Actions**, automate tasks, and advocate for smarter systems that reduce manual effort.
+- 📈 I use **analytics and user data** to prioritize what gets built and ensure that what we ship has measurable impact.
+- 🫶 I embed **accessibility** best practices into every project—supporting audits, resolving issues, and building inclusive experiences.
+- 🧩 I specialize in transforming complex requirements into modular, actionable steps.
 
-🎓 I hold a Bachelor's degree in **Computer Science** along with an M.B.A. focusing on **Information Security**.
+### 🔧 My Toolbox
 
-👨‍💻 I'm enthusiastic about learning new technology. 💻 In 2020, I began learning **React.js** and **Node.js** and I started working with [**Cued-IN**](https://cuedin.us) to continue growing my skills with modern web development.
+- CMS: Contentful, Cascade, WordPress
+- Code: HTML, CSS, React, Next.js
+- Automation: GitHub Actions
 
-👨‍💻 My love for technology fuels my drive to constantly expand my skills. I began on a journey to delve into **React.js** and **Node.js** to honing my expertise in modern web development through my work with Cued-IN. I had the opportunity to [build](https://apps.apple.com/us/app/the-good-life-solution/id6466637917) a React Native app.
+### 🌱 Currently Learning
 
-🔨 Beyond technology, I thrive on exploring diverse interests. When I'm not immersed in code, I enjoy engaging in **home improvement projects**, **playing in the dirt with my 3 boys**, and **tending my green bean "plantation."**
+- Deepening my skills in GitHub Copilot & leveraging AI to scale
+- Continuing to grow as a product leader and systems thinker
 
-📫 You can reach me on LinkedIn: [**https://linkedin.com/in/phil-ernst**](https://linkedin.com/in/phil-ernst)
+### ✍️ Recent Wins
 
-## 🛠️ Skills
+- Launched over **100+ pages** across key [GitHub.com](http://github.com/) properties  
+- Shipped pages at **3x delivery speed** of traditional engineering workflows
+- Scaled CMS to power 42% of [GitHub.com](http://github.com/) traffic
 
-### Product management
-- Content management systems
-- Web development knowledge
-- UX/UI understanding
-- Data analysis
-- Project management
+---
 
+### 🌿 Outside of Work
 
+When I'm not building web experiences, you’ll find me:
 
-### Languages
+- 🏃‍♂️ Training for a marathon
+- 🧱 Playing in the dirt and building Lego cities with my 3 boys  
+- 🪴 Growing green beans like a wannabe farmer
+- 🔨 Tackling home improvement projects one DIY at a time  
 
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
-![peoplecode](https://img.shields.io/badge/PeopleCode-007396?style=for-the-badge&logo=java&logoColor=white)
-![sql](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logoColor=white)
-![sqr](https://img.shields.io/badge/SQR-FFCB36?style=for-the-badge&logo=sqr&logoColor=white)
-![bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=bash&logoColor=white)
+I’m always up for learning something new or solving a good problem.
 
+---
 
-### Front-End
-
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-### Back-End
-
-![node](https://img.shields.io/badge/Node-323330?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF)
-![mongodb](https://img.shields.io/badge/MongoDB-430098?style=for-the-badge&logo=mongodb&logoColor=white)
-![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
-![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
-![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
-
-### Design Tools
-
-![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+📬 **Let’s connect:**  
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/phil-ernst/) or drop me a note!
